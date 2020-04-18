@@ -1,0 +1,2 @@
+rootProject.name='E2_Interactuando_varias_pantallas'
+include ':app'
